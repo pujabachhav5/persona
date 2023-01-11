@@ -1,0 +1,77 @@
+html, body{
+height: 100%;
+width: 100%;
+
+}
+header{
+    height: 10%;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}
+#leftsidebar{
+    height: 100%;
+    width: 30%;
+    background-color: white;
+    float: left;
+    margin-left: 2.5%;
+}
+#para{
+    background-color: gray;
+}
+#para1{
+    color: green;
+    padding-left: 30%;
+}
+#main{
+    height: 100%;
+    width: 30%;
+    float: left;
+    margin-left: 2.5%;
+}
+h2{
+    text-align: left;
+    color: green;
+}
+#p{
+    background-color: lightseagreen;
+    
+
+}
+#span{
+    margin-left: 100px;
+}
+#container{
+    width: 100%;
+    display: flex;
+
+}
+#p6{
+    width: 20%;
+    background-color: gray;
+}
+#p7{
+    background-color: green;
+    width: 2%;
+}
+#p8{
+    background-color: gray;
+    width: 78%;
+}
+
+#right-side-bar{
+    width: 30%;
+    height: 100%;
+    margin-left: 2%;
+    float: right;
+
+}
+
+.slider{
+
+    height:2px;
+    width:100px;
+    background-color: gray;
+
+
+}
